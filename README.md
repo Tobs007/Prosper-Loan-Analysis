@@ -1,4 +1,5 @@
 # Prosper-Loan-Analysis
+This project investigate the major features that determines Borrowers APR and factors that contributes to a loan outcome.
 
 ## Dataset
 
